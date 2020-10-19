@@ -7,7 +7,8 @@ Project in Data Scientist Nanodegree of Udacity
 2. [Project Motivation](#motivation)
 3. [File Descriptions](#files)
 4. [Results](#results)
-5. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Dataset](#dataset)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 ## Installation <a name="installation"></a>
 
@@ -29,6 +30,10 @@ The notebook available here showcases work related to the above questions.
 ## Results<a name="results"></a>
 
 The main findings of the code can be found at the notebook Write a Data Science Blog Post.ipynb
+
+## Dataset<a name="dataset"></a>
+
+The dataset can be found [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
