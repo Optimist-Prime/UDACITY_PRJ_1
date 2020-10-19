@@ -16,12 +16,12 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I used Stack Overflow data from 2017 to better understand:
+For this project, I used COVID19 data from Kaggle to better understand:
 
-1. As a programmer, should I go to work in the western world (e.g. America, Europe, etc.) or remain in the eastern world (e.g. India, China, etc.)?
-2. What is the salary difference in the western world and in the eastern world?
-3. How are the programmers satisfying about their job between these two sides of the world?
-4. Are there more jobs opportunity in the western world than that in the eastern world?
+1. How fast COVID19 spread throughout the world?
+2. How countries did to counter the pandemic?
+3. How my country India did?
+
 
 ## File Descriptions <a name="files"></a>
 
@@ -33,8 +33,8 @@ The main findings of the code can be found at the notebook Write a Data Science 
 
 ## Dataset<a name="dataset"></a>
 
-The dataset can be found [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).
+The dataset can be found [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Kagle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset).  Otherwise, feel free to use the code here as you would like! 
